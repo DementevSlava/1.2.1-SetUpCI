@@ -1,0 +1,1 @@
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/p74a1cikg99s14s6?svg=true)](https://ci.appveyor.com/project/DementevSlava/1-2-1-setupci)
